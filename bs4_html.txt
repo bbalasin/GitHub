@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>AtriCure_New | Home</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  
+  <link rel="shortcut icon" href="https://www.atricure.com/sites/default/files/favicon.png" type="image/png">
+   
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+		
+	<link href="css/style.css" rel="stylesheet">
+	
+</head>
+
+
+<body>
+
+<nav class="navbar navbar-expand-md navbar-light region-leaderboard smaller">
+    
+    <div class="container-fluid ml-3" id="myNav">
+       
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+            
+            <span class="navbar-toggler-icon"></span>
+        </button>
+           
+             <div class="collapse navbar-collapse" id="navbarResponsive">
+                 <ul class="navbar-nav ml-auto menu_txt">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="about-us.html">ABOUT US &nbsp; <span class="orange">/</span></a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">NEWS &nbsp; <span class="orange">/</span></a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">INVESTORS &nbsp; <span class="orange">/</span></a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">EVENTS &nbsp; <span class="orange">/</span></a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">CAREERS &nbsp; <span class="orange">/</span></a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">COMPLIANCE &nbsp; <span class="orange">/</span></a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">CONTACT</a>
+                    </li> 
+                 </ul>
+             </div>
+        
+    </div>
+    
+</nav>
+
+
+<div class="container">
+
+<!--Header-->
+<div class="pt-3 clearfix">
+			
+    <div class="float-left">
+        <div id="logo"><a href="https://www.atricure.com" class="active"><img class="site-logo" typeof="foaf:Image" src="https://www.atricure.com/sites/all/themes/atricuretheme/logo.png" alt="AtriCure"></a></div>
+    </div>
+
+    <div class="float-right">	
+
+     <!--<form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+     </form>-->
+
+        <div>
+             <div class="clearfix">
+                 <div id="block-search-form" role="search">
+                     <div class="clearfix">  
+
+                        <div>
+                            <form action="/" method="post" id="search-block-form" accept-charset="UTF-8">
+                                <div>
+                                    <div class="d-flex">
+                                        <!--<h2 class="element-invisible">Search form</h2>-->
+                                        <div class=" pt-1 form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="https://www.atricure.com/sites/all/themes/atricuretheme/css/images/search-button.png" class="form-submit">
+                                        </div>
+                                        <div class="search-box"><div class="form-item form-type-textfield form-item-search-block-form">
+                                         <label class="element-invisible" for="edit-search-block-form--2"></label>
+                                         <input title="Enter the terms you wish to search for." onblur="if (this.value == '') {this.value = '';}" onfocus="if (this.value == '') {this.value = '';}" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" class="form-text">
+                                        </div>
+                                        <div class="search-suffix"><a href="/" alt="AtriCure United States" title="AtriCure United States" style="text-decoration:none;" class="active">United States</a> / <a href="/international" alt="AtriCure International" title="AtriCure International" style="text-decoration:none;">International</a></div></div>
+
+                                        <input type="hidden" name="form_build_id" value="form-4ApVqmKx_oe1eMiw1lEGO1KlbHHPg5_2m2xaR7Q_vBo">
+
+                                        <input type="hidden" name="form_id" value="search_block_form">
+
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--region region-header-->
+
+</div><!--float-right-->
+
+</div><!--pt-3-->
+<!--Header-->
+        
+<!--Inner Menu Begins-->
+   <div class="container-fluid bod-top pt-1">
+    <div class="row physicians">
+      <div class="col-md-4 prod" style="border-right:1px solid #fff;border-bottom:1px solid #fff;">Product Information</div>
+      <div class="col-md-4 pro" style="border-right:1px solid #fff;border-bottom:1px solid #fff;">Healthcare Professionals</div>
+      <div class="col-md-4 pat" style="border-bottom:1px solid #fff;">Patient Education</div>
+    </div>
+   </div>
+        
+<!--Inner Menu Ends-->
+			
+
+<!--- Image Slider -->
+<div id="slides" class="carousel slide" data-ride="carousel">
+   
+   <!--Indicators-->
+    <ul class="carousel-indicators">
+        <li data-target="#slides" data-slide-to="0" class="active"></li>
+        <li data-target="#slides" data-slide-to="1"></li>
+        <li data-target="#slides" data-slide-to="2"></li>
+        <li data-target="#slides" data-slide-to="3"></li>
+        <li data-target="#slides" data-slide-to="4"></li>
+        <li data-target="#slides" data-slide-to="5"></li>
+    </ul>
+    
+    <!--Slides-->
+    <div class="carousel-inner">
+       <div class="carousel-item active">
+           <img src="img/Slider_1.png" class="d-block w-100" alt="Image1">
+           
+          <div class="carousel-caption">
+              <!-- <h1 class="display-5">sample text</h1>
+               <h3>sample text</h3>-->
+                   <button type="button" class="btn btn-outline-light btn-lg">More Info</button>
+           </div>
+       </div>
+       <div class="carousel-item">
+           <img src="img/Slider_2.jpg" class="d-block w-100" alt="Image2">
+       </div>
+       <div class="carousel-item">
+           <img src="img/Slider_3.jpg" class="d-block w-100" alt="Image3">
+       </div>
+       <div class="carousel-item">
+           <img src="img/Slider_4.jpg" class="d-block w-100" alt="Image4">
+       </div>
+       <div class="carousel-item">
+           <img src="img/Slider_5.png" class="d-block w-100" alt="Image5">
+       </div>
+       <div class="carousel-item">
+          <img src="img/Slider_6.jpg" class="d-block w-100" alt="Image6">
+       </div>
+       
+        
+    </div>
+</div>
+<!--- Image Slider -->
+
+<div>&nbsp;</div>
+ 
+ <!--- Counter Section -->
+<div class="container">
+  <div class="row text-center grey counter">
+    <div class="col-sm-12 col-md-6 col-lg-3">
+      <img src="https://www.atricure.com/sites/default/files/AtriCure-Website-Countdown-illustrations-IND-300-03.png"><div class="nos" data-count="300000">300,000</div><div>Patients Served Since 2004</div>
+    </div>
+     <div class="col-sm-12 col-md-6 col-lg-3">
+       <img src="https://www.atricure.com/sites/default/files/AtriCure-Website-Countdown-illustrations-IND-300-02.png"><div class="nos" data-count="300000">300,000</div><div>Patients Served Since 2004</div>
+     </div>
+   
+     <div class="col-sm-12 col-md-6 col-lg-3">
+         <img src="https://www.atricure.com/sites/default/files/AtriCure-Website-Countdown-illustrations-IND-300-01.png"><div class="nos" data-count="300000">300,000</div><div>Patients Served Since 2004</div>
+      </div>
+       <div class="col-sm-12 col-md-6 col-lg-3">
+         <img src="https://www.atricure.com/sites/default/files/AtriCure-Website-Countdown-illustrations-IND-300-04.png"><div class="nos" data-count="300000">300,000</div><div>Patients Served Since 2004</div>
+       </div>
+   </div><!--row-->
+</div><!--container-->
+<!--- Counter Section -->
+     
+
+<!-- Featured @ AtriCure & Follow @ AtriCure -->
+<div class="container-fluid">
+    <div class="row bod-bot">
+        <div class="col-md-6">
+         <div class="bod-bot"><span class="d-inline"><a href="/products" class="featured_icon-link" title="Product Information"><img typeof="Image" class="image-style-none" src="https://www.atricure.com/sites/all/themes/atricuretheme/images/products-icon.png" alt=""></a><a href="/healthcare-professionals" class="featured_icon-link" title="Healthcare Professionals"><img typeof="Image" class="image-style-none" src="https://www.atricure.com/sites/all/themes/atricuretheme/images/professionals-icon.png" alt=""></a><a href="/patient-education" class="featured_icon-link" title="Patient Education"><img typeof="Image" class="image-style-none" src="https://www.atricure.com/sites/all/themes/atricuretheme/images/patients-icon.png" alt=""></a></span><span class="d-inline float-right align-middle featured_txt">Featured at <img typeof="Image" class="image-style-none" src="https://www.atricure.com/sites/all/themes/atricuretheme/images/logo-blue.png" alt=""></span></div>
+         <div class="row" id="cryoICE_box">
+         <span class="col-6">
+           <a href="#" title="The cryoSPHERE Probe">
+              <img src="https://www.atricure.com/sites/default/files/Featured_cryoSPHERE_0422.jpg" class="img-fluid" alt="">
+           </a>
+         </span>
+         <span class="col-6">
+            <a href="node/640171" title="The cryoSPHERE Probe" class="text-fluid cryoICE_txt small">
+            cryoICE cryoSPHERE probe, the first device solely dedicated to blocking pain by temporarily ablating peripheral nerves
+            </a>
+                  
+      </span>
+       </div>
+        </div><!-- col-md-6 -->
+        
+        <div class="col-md-6">
+            <div class="row">
+            <span class="col-5 d-inline pad">
+             <a href="/home?qt-social_feeds=0#qt-social_feeds"><i class="fab fa-twitter-square px-1" style="font-size:40px;color:dodgerblue;"></i></a>
+             <a href="/home?qt-social_feeds=1#qt-social_feeds"><i class="fab fa-youtube-square px-1" style="font-size:40px;color:red;"></i></a>
+             <a href="/home?qt-social_feeds=2#qt-social_feeds"><i class="fab fa-facebook-square px-1" style="font-size:40px;color:dodgerblue;"></i></a>
+             <a href="/home?qt-social_feeds=3#qt-social_feeds"><i class="fab fa-linkedin px-1" style="font-size:40px;color:cornflowerblue;"></i></a> 
+            </span>
+                <span class="col-7 pad d-inline float-right align-middle darkgrey"><a href="https://twitter.com/AtriCure" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" id="follow_txt">Follow @AtriCure <span class="go"> | GO</span></a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+  </script></span></div>
+             
+             <div class="row">
+  <div>
+  <div class="recent-activity">Recent Activity</div>
+  <div class="group-content">
+          <div class="views-row views-row-1 views-row-odd views-row-first clearfix">
+          
+  <div class="views-field views-field-field-image image-container">        <span class="field-content image"></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">We’re always #thankful for our co-ops and their creative Thursday treats in the Mason office. Today’s surprise was… <a href="https://t.co/JOugoYMPC5">https://t.co/JOugoYMPC5</a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">07.25.2019</span>  </div>  
+  <div class="views-field views-field-edit-node">        <span class="field-content"></span>  </div>      </div>
+          <div class="views-row views-row-2 views-row-even clearfix">
+          
+  <div class="views-field views-field-field-image image-container">        <span class="field-content image"></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">In February of 2018 we opened space at our Mason South facility. Now we’re celebrating the work that has gone into… <a href="https://t.co/x1DmXoxC5w">https://t.co/x1DmXoxC5w</a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">07.24.2019</span>  </div>  
+  <div class="views-field views-field-edit-node">        <span class="field-content"></span>  </div>      </div>
+          <div class="views-row views-row-3 views-row-odd clearfix">
+          
+  <div class="views-field views-field-field-image image-container">        <span class="field-content image"></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">Dr. Romano @umichmedicine evolved his practice when he saw firsthand the remarkable improvement in how his patients… <a href="https://t.co/riQjUU8B22">https://t.co/riQjUU8B22</a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">07.20.2019</span>  </div>  
+  <div class="views-field views-field-edit-node">        <span class="field-content"></span>  </div>      </div>
+          <div class="views-row views-row-4 views-row-even clearfix">
+          
+  <div class="views-field views-field-field-image image-container">        <span class="field-content image"></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">Our commitment to #education is clear in the extensive #training our reps attend. We make sure they understand what… <a href="https://t.co/hEk74UlNlQ">https://t.co/hEk74UlNlQ</a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">07.16.2019</span>  </div>  
+  <div class="views-field views-field-edit-node">        <span class="field-content"></span>  </div>      </div>
+          <div class="views-row views-row-5 views-row-odd views-row-last clearfix">
+          
+  <div class="views-field views-field-field-image image-container">        <span class="field-content image"></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">Jack underwent a #coronaryarterybypass with concomitant #surgicalablation to surgically treat his #Afib. Today, he… <a href="https://t.co/RDwwYhslDY">https://t.co/RDwwYhslDY</a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">07.15.2019</span>  </div>  
+  <div class="views-field views-field-edit-node">        <span class="field-content"></span>  </div>      </div>
+      </div>
+</div>
+               
+                 
+       </div><!-- socialFeed_box -->
+            
+        </div><!-- col-md-6 -->
+    </div>
+</div>
+<!-- Featured @ AtriCure & Follow @ AtriCure -->
+
+<div>&nbsp;</div>
+
+<!-- News Widgets -->
+<div class="container-fluid">
+   <div class="row">
+       <div class="col-lg-6">
+          <div class="row" style="margin-right:-12px;">
+              <div class="col-md-6 blue-grey h200 news-boxl">1</div>
+              <div class="col-md-6 grey h200 news-boxr">2</div>
+          </div>
+           
+       </div>
+       <div class="col-lg-6">
+            <div class="row" style="margin-left:-12px;">
+              <div class="col-md-6 blue-grey h200 news-boxl">1</div>
+              <div class="col-md-6 grey h200 news-boxr">2</div>
+          </div>
+       </div>
+   </div>
+   <div class="row" style="margin-top:-22px;">
+       <div class="col-lg-6">
+            <div class="row" style="margin-right:-12px;">
+              <div class="col-md-6 grey h200 news-boxl">1</div>
+              <div class="col-md-6 blue-grey h200 news-boxr">2</div>
+          </div>
+       </div>
+       <div class="col-lg-6">
+           <div class="row" style="margin-left:-12px;">
+              <div class="col-md-6 grey h200 news-boxl">1</div>
+              <div class="col-md-6 blue-grey h200 news-boxr">2</div>
+          </div>
+       </div>
+   </div>
+   <div class="row" style="margin-top:-22px;">
+       <div class="col-lg-6">
+           <div class="row" style="margin-right:-12px;">
+              <div class="col-md-6 blue-grey h200 news-boxl">1</div>
+              <div class="col-md-6 grey h200 news-boxr">2</div>
+          </div>
+       </div>
+       <div class="col-lg-6">
+           <div class="row" style="margin-left:-12px;">
+              <div class="col-md-6 blue-grey h200 news-boxl">1</div>
+              <div class="col-md-6 grey h200 news-boxr">2</div>
+          </div>
+       </div>
+   </div>
+    
+</div>
+<!-- News Widgets -->
+
+<!-- Connect --> 
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12 social">
+           <span><img src="https://www.atricure.com/sites/all/themes/atricuretheme/css/images/icon_connect.png" alt="Connect:" class="connecticon"></span>
+              <a href="http://www.twitter.com/AtriCure"><i class="fab fa-twitter-square px-1" style="font-size:30px;color:dodgerblue;"></i></a>
+             <a href="https://www.linkedin.com/company/atricure-inc-"><i class="fab fa-linkedin px-1" style="font-size:30px;color:cornflowerblue;"></i></a>
+                <a href="http://www.youtube.com/c/AtriCureInc2000"><i class="fab fa-youtube-square px-1" style="font-size:30px;color:red;"></i></a>
+              <a href="https://www.facebook.com/AtriCure"><i class="fab fa-facebook-square px-1" style="font-size:30px;color:dodgerblue"></i></a>
+              <a href="https://www.glassdoor.com/Overview/Working-at-AtriCure-EI_IE30220.11,19.htm" rel="publisher" target="_blank" title="AtriCure Glassdoor"><img style="margin-top:-14px;" src="https://www.atricure.com/sites/all/themes/atricuretheme/css/images/icon_glassdoor@2x.png" width="35"></a>
+              
+        </div>
+    </div>
+</div>
+ <!-- Connect -->
+ 
+<footer>
+    <div class="row text-center smaller">
+        <div class="col-md-9 px-1  foo_menu">
+             <ul class="nav text-uppercase">
+          <li class="nav-item">
+            <a  style="color:#b0b0b0;" class="nav-link active" href="#">TERM OF USE</a>
+          </li>
+          <li class="nav-item">
+            <a  style="color:#b0b0b0;" class="nav-link good" href="#">PRIVACY NOTICE</a>
+          </li>
+          <li class="nav-item">
+            <a  style="color:#b0b0b0;" class="nav-link" href="#">LOCATIONS</a>
+          </li>
+          <li class="nav-item">
+            <a style="color:#b0b0b0;" class="nav-link" href="#">MANAGEMENT</a>
+          </li>
+           <li class="nav-item">
+            <a style="color:#b0b0b0;" class="nav-link" href="#">COMPLIANCE</a>
+          </li>
+           <li class="nav-item">
+            <a style="color:#b0b0b0;" class="nav-link" href="#">UK SLAVERY ACT STATEMENT</a>
+          </li>
+           <li class="nav-item">
+            <a style="color:#b0b0b0;" class="nav-link" href="#">SITEMAP</a>
+          </li>
+        </ul>
+        </div>
+        <div style="color:#b0b0b0; font-size:110%;" class="col-md-3 mt-2">
+           © 2019 AtriCure, Inc. All rights reserved. 
+        </div>
+    </div>
+</footer>
+
+</div><!--Container-->
+
+</body>
+</html>
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+body{
+ /*  font-family:"lft-etica",Arial,Helvlft-etica,sans-serif;*/
+}
+
+.menu_txt{
+    color:#3f5466;
+}
+
+.smaller{
+    font-size: 72%;
+    font-weight: 400;
+}
+
+.region-leaderboard{
+ padding: 0;
+ /*   height: 33px; */
+    background-color: #dadcdb;
+    border-top: 5px solid #f38118;
+}
+
+#myNav{
+    padding-right:10%;
+}
+
+.pad{
+    padding-top:0px !important;
+    padding-bottom:0px !important;
+    padding-left:0px !important;
+}
+.orange{
+	color:#f38118;
+}
+
+.grey{
+    background-color:#cccccc;
+}
+
+.darkgrey{
+    background-color:#bcbcbc;    
+}
+
+.blue-grey{
+background-color:#9eadb6;
+}
+
+.h200 {
+    height:200px;
+}
+
+.news-boxl{
+ 
+}
+
+.news-boxr{
+  
+}
+
+.textcol{
+    color:#425563;
+}
+good{
+    color:#b0b0b0;
+}
+.nos{
+    font-size: 30px;
+    font-weight: 500;
+    color:#40484a;
+    
+}
+.site-logo{
+	max-width:200px;
+}
+
+.form-text {
+    width: 200px;
+    border: 1px solid #969696;
+    display: inline-block;
+}
+.bod-top{
+    border-top: 1px solid #b9b9b9;
+}
+
+.bod-bot{
+    border-bottom: 3px solid #efeef1;
+}
+
+.featured_txt{
+    font-size:20px;
+    padding-top: 5px;
+}
+
+#follow_txt{
+      padding-top: 12px !important;
+      font-size:14px;
+      /*padding-left:20px !important;*/
+     text-align:right;
+    width:auto;
+    color:#425563 !important;
+    float:right;
+}
+
+a.follow_txt{
+   
+}
+
+#follow_txt:hover{
+      color:#f38118 !important;
+      text-decoration: none !important;    
+}
+
+.go{
+   color:white;
+   font-weight: bolder;
+   text-decoration: none;
+    float:right;
+    margin-left: 5px;
+}
+
+.go:hover{
+   color:white;
+   font-weight: bolder;
+   text-decoration: none;
+}
+
+.recent-activity {
+    color: #464a4b;
+    background-color: #eff0f2;
+    line-height: 26px;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.group-content {
+    height: 148px;
+    overflow-y: scroll;
+}
+
+.field-content{
+    font-size:13px;
+}
+
+.cryoICE_txt{
+    text-decoration:none;
+    text-align: justify;
+    color:#425563;
+    margin-top:50%;
+}
+
+.cryoICE_txt:hover{
+    text-decoration:none;
+    font-weight: normal;
+    color:#425563;
+}
+
+#cryoICE_box:hover{
+   /* border:1px solid #ccc;*/
+    box-shadow: 0 4px 7px 0 rgba(0,0,0,0.2), 0 2px 10px 0 rgba(0,0,0,0.1);
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+}
+
+.physicians{
+    background-color:#d9dedd;
+    color:#40484a;
+    font-size:17px;
+}
+
+.prod{
+    background: url(https://www.atricure.com/sites/all/themes/atricuretheme/images/products-icon.png)no-repeat;
+    /* background-position: 0 center; */
+    background-position: 14px 4px;
+    /* text-align: center; */
+    padding-left: 75px !important;
+}
+.pro {
+    background: url(https://www.atricure.com/sites/all/themes/atricuretheme/images/professionals-icon.png)no-repeat;
+    /* background-position: 0 center; */
+    background-position: 14px 4px;
+    /* text-align: center; */
+    padding-left: 75px !important;
+}
+
+.pat{
+    background: url(https://www.atricure.com/sites/all/themes/atricuretheme/images/patients-icon.png)no-repeat;
+    /* background-position: 0 center; */
+    background-position: 14px 4px;
+    /* text-align: center; */
+    padding-left: 75px !important;
+}
+
+
+.connecticon {
+    margin-top:-12px;
+}
+
+a.glassdooricon {
+    background-image: url();
+}
+
+.foo_menu:hover {
+    font-weight: bold;
+}
+
+/*---Firefox Bug Fix --*/
+.carousel-item {
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+/*--- Fixed Background Image --*/
+figure {
+  position: relative;
+  width: 100%;
+  height: 60%;
+  margin: 0!important;
+}
+.fixed-wrap {
+  clip: rect(0, auto, auto, 0);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+#fixed {
+  background-image: url('img/mac.png');
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: translateZ(0);
+          transform: translateZ(0);
+  will-change: transform;
+}
+
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
+}
+
+/*@media(min-width:768px){
+    body{
+        background:lightgreen;
+    }
+}*/
+
+
+/*@media(min-width:992px){
+    body{
+        background:pink;
+    }
+}*/
+
+
+
+@media only screen and (max-width: 991px) and (min-width: 768px){
+   
+    .physicians{
+        font-size:12px;
+        height:58px;
+        
+    }
+    
+    .prod{
+        padding-left: 65px;
+    }
+    
+     .pro{
+        padding-left: 65px;
+    }
+    
+     .pat{
+        padding-left: 65px;
+    }
+    
+    .vg{
+    width:80%;
+    }
+    
+}
+
+
+@media only screen and (max-width: 767px) and (min-width: 576px){
+    .physicians{
+    font-weight:normal;
+    }
+        
+    .prod{
+        text-align:left !important; 
+        padding-left: 80px;
+        }
+    
+    .pro{
+    text-align:left !important; 
+    padding-left: 80px;
+    }
+
+    .pat{
+    text-align:left !important; 
+    padding-left: 80px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 575px){
+    
+     .physicians{
+    font-weight:normal;
+    }
+        
+    .prod{
+        text-align:left !important; 
+        padding-left: 80px;
+        }
+    
+    .pro{
+    text-align:left !important; 
+    padding-left: 80px;
+    }
+
+    .pat{
+    text-align:left !important; 
+    padding-left: 80px;
+    }
+
+
+    
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px){
+
+    .featured_txt{
+    font-size: 12px;
+    width: 130px;
+    text-align: center;
+}
+    
+}
+
+
+
+
